@@ -1,0 +1,111 @@
+/* src/styles/global.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #010b16;
+    color: rgb(60, 19, 224);
+    padding: 1rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+h2 {
+    border-bottom: 2px solid #0070f3;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+section {
+    margin: 2rem 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border: 1px solid #200303;
+    border-radius: 30px;
+    transition: transform 0.2s;
+}
+
+li:hover {
+    transform: scale(1.02);
+    border-color: #1159e9;
+}
+
+img {
+    border-radius: 5px;
+    margin-top: 0.5rem;
+}
+
+a {
+    color: #f5c6cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+/* src/styles/global.css */
+
+/* Existing styles... */
+
+section {
+    margin: 2rem 0;
+    padding: 1.5rem; /* Add padding for better spacing */
+    background-color: #edf1f3; /* White background for contrast */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+h2 {
+    border-bottom: 2px solid #2f3336; /* Bottom border for headings */
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    color: #081e4b; /* Change heading color */
+}
+
+p {
+    line-height: 1.6; /* Improve line spacing for readability */
+    margin-bottom: 1rem; /* Space between paragraphs */
+}
+
+a {
+    color: #0070f3; /* Link color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Make the link bold */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover for better visibility */
+}
