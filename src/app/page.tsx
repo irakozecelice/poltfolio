@@ -9,7 +9,7 @@ export default function Home() {
         <Layout>
             <section id="about">
                 <h2>About Me</h2>
-                <p>Hello! I'm a web developer with a passion for creating beautiful and functional websites.</p>
+                <p>Hello! I m a web developer with a passion for creating beautiful and functional websites.</p>
                 <h3>MY STRUCTURE CV</h3>
                         <p>My name is IRAKOZE Celice i am l5 software development student
                             so i am fullstack developer in EAV KIVUMU TSS. Tis is my simple website that shows you my portifolio now.
@@ -38,9 +38,9 @@ export default function Home() {
                     </li>
                     <li>
                         <h3>CODING PRACTICES AND DESIGN</h3>
-                        <p>Coding, also known as computer programming, is the process of writing instructions (code) that a computer can follow to perform specific tasks. It involves using programming languages to create programs that solve problems or automate processes. 
+                        <p>Coding also known as computer programming, is the process of writing instructions (code) that a computer can follow to perform specific tasks. It involves using programming languages to create programs that solve problems or automate processes. 
 In simpler terms: Coding is how humans communicate with computers, using a special language that computers understand. 
-Here's a more detailed breakdown:
+Here s a more detailed breakdown:
 What it is:
 Coding is the art of creating instructions for a computer to follow, essentially telling it what to do and how to do it. 
 Why it's important:
